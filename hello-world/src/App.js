@@ -15,7 +15,10 @@ function App() {
           Hello World！
         </p>
        
-     
+    是用那边教的command 
+
+    看到没有 你加了很多remote
+    等下我delete 
       </header>
     </div>
   );
